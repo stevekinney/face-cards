@@ -14,6 +14,8 @@ This problem is separated into two tasks. First, display three "cards" for rando
 
 Familiarize yourself with the [Jest documentation](https://facebook.github.io/jest/).
 
+## Time Expectations
+We would expect this task to only take about 3 hours to complete.  It's ok to go over if you're enjoying yourself, but if you go too much beyond please add some comments on how you would see yourself finishing this, what changes you might make, etc. and make your submission.
 
 ## Technical Requirements
 
