@@ -16,17 +16,17 @@ Familiarize yourself with the [Jest documentation](https://facebook.github.io/je
 
 ## Time Expectations
 
-We would expect this task to only take about 3 hours to complete.  It's okay to go over if you're enjoying yourself, but if you go too much beyond please add some comments on how you would see yourself finishing this, what changes you might make, etc. and make your submission.
+We would expect this task to only take about 3 hours to complete. It's okay to go over if you're enjoying yourself, but if you go too much beyond please add some comments on how you would see yourself finishing this, what changes you might make, etc. and make your submission.
 
 ## Technical Requirements
 
 ### Part 1
 
-1. Fetch user data from https://jsonplaceholder.typicode.com/users via AJAX.
+1. Fetch user data from `https://jsonplaceholder.typicode.com/users` via AJAX.
 2. Select three unique users at random.
 3. Display a card for each of the three randomly selected users (see mockups below).
 4. Cards are 350px by 206px.
-5. The avatar images are provided by http://avatars.adorable.io. The `<img>` element's `src` attribute will be in the format of `https://api.adorable.io/avatars/150/<email>.png`.
+5. The avatar images are provided by `http://avatars.adorable.io`. The `<img>` element's `src` attribute will be in the format of `https://api.adorable.io/avatars/150/<email>.png`.
 6. You may use any JavaScript library not already provided to achieve the desired functionality.
 
 ### Part 2
@@ -58,19 +58,19 @@ We would expect this task to only take about 3 hours to complete.  It's okay to 
 2. Install the project's dedpendencies.
 
 ```
-yarn install
+npm install
 ```
 
 3. Start the development server.
 
 ```
-yarn run start
+npm start
 ```
 
 4. Run your unit tests.
 
 ```
-yarn run test
+npm test
 ```
 
 ## Submitting your Work
