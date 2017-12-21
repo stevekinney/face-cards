@@ -11,9 +11,7 @@
     "babel-loader": "^7.1.2",
     "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
-    "babel-preset-minify": "^0.2.0",
     "babel-preset-react": "^6.24.1",
-    "babel-preset-react-app": "^3.1.0",
     "babel-preset-stage-2": "^6.24.1",
     "babel-register": "^6.26.0",
     "babel-register-cli": "^5.0.0",
@@ -33,9 +31,7 @@
     "rimraf": "^2.6.2",
     "serve-static": "^1.13.1",
     "style-loader": "^0.19.1",
-    "styled-components": "^2.2.1",
-    "webpack": "^3.10.0",
-    "webpack-dev-middleware": "^2.0.2"
+    "webpack": "^3.10.0"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/react-babel"
