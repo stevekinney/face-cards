@@ -4,7 +4,8 @@
   "description": "A boilerplate for getting a web application off the ground using React and Babel for JSX.",
   "main": "server.js",
   "scripts": {
-    "start": "rimraf ./build && webpack && babel-register server"
+    "start": "rimraf ./build && webpack && babel-register server",
+    "test": "jest"
   },
   "private": true,
   "dependencies": {
