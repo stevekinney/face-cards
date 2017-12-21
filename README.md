@@ -1,13 +1,13 @@
-# The Face Cards App
+# Face Cards
 
-Much of the work at SendGrid involves pulling in data from multiple sources and combining them into one cohesive presentation.
+Much of the work at SendGrid involves pulling in data from multiple sources and combining them into one, cohesive presentation.
 
 This problem is separated into two tasks. First, display three "cards" for randomly-selected users which displays their name, email address, company catchphrase, and, of course, their adorable avatar. Second, display 5 randomly-selected posts when a user clicks on an individual card.
 
 
 ## General Requirements
 
-1. Use React, Jest, Styled-Components, and your favorite libary for managing state to create the simple application described below.
+1. Use React, Jest, and your favorite library for managing state to create the simple application described below.
 2. Write clean, concise, self-documenting code.
 3. Write small, easily-testable components.
 4. Write unit tests and ensure code coverage.
@@ -15,7 +15,8 @@ This problem is separated into two tasks. First, display three "cards" for rando
 Familiarize yourself with the [Jest documentation](https://facebook.github.io/jest/).
 
 ## Time Expectations
-We would expect this task to only take about 3 hours to complete.  It's ok to go over if you're enjoying yourself, but if you go too much beyond please add some comments on how you would see yourself finishing this, what changes you might make, etc. and make your submission.
+
+We would expect this task to only take about 3 hours to complete.  It's okay to go over if you're enjoying yourself, but if you go too much beyond please add some comments on how you would see yourself finishing this, what changes you might make, etc. and make your submission.
 
 ## Technical Requirements
 
@@ -55,16 +56,19 @@ We would expect this task to only take about 3 hours to complete.  It's ok to go
 1. Fork and then clone the provided GitHub repository.
 
 2. Install the project's dedpendencies.
+
 ```
 yarn install
 ```
 
 3. Start the development server.
+
 ```
 yarn run start
 ```
 
 4. Run your unit tests.
+
 ```
 yarn run test
 ```
